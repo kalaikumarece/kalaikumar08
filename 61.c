@@ -6,7 +6,7 @@ int main()
     int n,i;
     char a[10];
     printf("enter the word\n");
-    scanf("%c",&a[i]);
+    gets(a);
 printf("how many letters u want to print");
 scanf("%d",&n);
 for(i=0;i<n;i++)
